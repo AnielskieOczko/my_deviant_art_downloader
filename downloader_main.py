@@ -391,4 +391,5 @@ if __name__ == '__main__':
 
 # good for testing small number of images in gallery
 #https://www.deviantart.com/kretualdo/gallery
+#https://www.deviantart.com/kretualdo/gallery
 #get_img_source(url="https://www.deviantart.com/darkelfphoto/art/4-775232195")
