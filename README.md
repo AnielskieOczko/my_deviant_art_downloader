@@ -16,5 +16,5 @@ Functionalities:
     comment's body
 The data is saved in the txt file.
 
-additional functionalities:
+Additional functionalities:
 the possibility of setting the maximum number of images to be downloaded
